@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishi Verma
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning .NET Maui
+- 🌱 I’m currently learning WinUI3
 - 💞️ I’m looking to collaborate on projects involving windows app development
 - 📫 How to reach me, mail me @ risver15.3@gmail.com
 
